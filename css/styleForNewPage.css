@@ -264,6 +264,9 @@ nav ul.dropdown-list {
     flex-wrap: wrap;
     margin-top: 10%;
 }
+.allContainer{
+    height: 180px;
+}
 
 .card {
     width: calc(25% - 20px); /* Adjust width to accommodate four cards */
@@ -373,6 +376,9 @@ nav ul.dropdown-list {
         width: 100%;
         /* margin-right: 0; */
         margin-bottom: 20px; /* Add margin-bottom to create space between cards */
+    }
+    .allContainer{
+        height: 335px;
     }
 }
 
